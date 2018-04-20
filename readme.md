@@ -45,6 +45,6 @@ _HTML/CSS/Bootstrap/JavaScript/jQuery_
 
 ### _License_
 
-*[MIT License](ping_p0ng/LICENSE)*
+*[MIT License](https://github.com/UzmaRani/ping_p0ng/blob/master/LICENSE)*
 
 _Copyright (c) 2018 **_Uzma_Rani_**_
