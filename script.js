@@ -23,8 +23,8 @@ var myNumber = function(ab){
 //User Interface Logic
 $(document).ready(function(){
   $("#cd").submit(function(event){
-   $("li").remove();
-	$("#output").add("li");
+   $(".ll").remove();
+	$("#output").add(".ll");
 
 
     var countTo = parseInt($("input#ab").val());
@@ -34,7 +34,7 @@ $(document).ready(function(){
     var output = myNumber(countTo);
 
     output.forEach(function(num){
-      $("#output").append('<li>' + num + '</li>');
+      $("#output").append('<li class="ll">' + num + '</li>');
     });
     event.preventDefault();
   });
