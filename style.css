@@ -1,0 +1,69 @@
+.jumbotron
+{
+		background-image:url("bgping.jpg");
+	background-size:cover;
+	color:white;
+	border-radius:15px;
+	height:60%;
+		
+
+}
+.container
+{
+	font-family: 'Gugi', cursive;
+	background-color:lightgray;
+	border:3px solid #78CEB8;
+	box-shadow:5px 5px #006161;
+}
+
+h3,h4
+{
+	color:
+}
+
+#ff
+{
+	padding:15px;
+	border-radius:5%;
+	background-color:#78CEB8;
+	box-shadow:5px 5px #006161;
+
+}
+#hh
+{
+	padding:15px;
+}
+#gg
+{
+	padding-top:5%;
+	border:none;
+	box-shadow:none;
+}
+body
+{
+	background-color:lightgray;
+}
+	
+form input
+{
+	border:none;
+	width:200px;
+	height:30px;
+	border-radius:5px;
+}
+
+form input[type="number"]
+{
+padding:20px;
+	
+}
+button
+{
+	height:40px;
+	width:150px;
+	
+	border-radius:5px;
+	background-color:#78CEB8;
+	box-shadow:5px 5px #006161;
+}
+	
