@@ -47,4 +47,4 @@ _HTML/CSS/Bootstrap/JavaScript/jQuery_
 
 *[MIT License](https://github.com/UzmaRani/ping_p0ng/blob/master/LICENSE)*
 
-_Copyright (c) 2018 **_Uzma_Rani_**_
+_Copyright  © 2018 **_Uzma_Rani_**_
