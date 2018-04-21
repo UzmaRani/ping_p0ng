@@ -23,7 +23,9 @@ var myNumber = function(ab){
 //User Interface Logic
 $(document).ready(function(){
   $("#cd").submit(function(event){
-    $("#output").empty();
+   $("li").remove();
+	$("#output").add("li");
+
 
     var countTo = parseInt($("input#ab").val());
 	if (countTo<=0){
