@@ -37,7 +37,7 @@ _ No known bugs_
 
 ## _Support and contact details_
 
-_Contact me through uzmarani795@gmail.com_
+_For any suggestion contact us at uzmarani795@gmail.com_
 
 ## _Technologies Used_
 
